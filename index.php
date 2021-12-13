@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="hu">
 <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">https://github.com/NetherNetworkSystem/NetherNetwork/blob/main/index.php
     <title>NetherNetwork</title>
-    <link rel="stylesheet" href="./assets/style.css">
+    <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.2/css/all.css">
     <link rel="icon" href="logo.png">
 </head>
@@ -43,9 +43,9 @@
             </a>
         </div>
     </div>
-    <script async src="./assets/particles.min.js" type="1187eb4c05e28e88e8a856d6-text/javascript"></script>
-    <script async src="./assets/script.js" type="1187eb4c05e28e88e8a856d6-text/javascript"></script>
-    <script async src="./assets/rocket-loader.min.js" data-cf-settings="1187eb4c05e28e88e8a856d6-|49" defer=""></script>
+    <script async src="particles.min.js" type="1187eb4c05e28e88e8a856d6-text/javascript"></script>
+    <script async src="script.js" type="1187eb4c05e28e88e8a856d6-text/javascript"></script>
+    <script async src="rocket-loader.min.js" data-cf-settings="1187eb4c05e28e88e8a856d6-|49" defer=""></script>
 </body>
 
 </html>
